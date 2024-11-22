@@ -1,0 +1,3 @@
+[submodule "owf-tools/credo-ts"]
+	path = owf-tools/credo-ts
+	url = https://github.com/openwallet-foundation/credo-ts.git
